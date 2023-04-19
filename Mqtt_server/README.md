@@ -34,4 +34,5 @@ npm build:my
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).   
+![the original interface of mqtt vue.js for sensors controlling](https://github.com/wjb321/Vue/blob/main/Mqtt_server/simple_ui.PNG)
